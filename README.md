@@ -13,11 +13,14 @@ A **work-in-progress (WIP)** Tkinter-based tool for extracting ComfyUI-style met
 - **Extract** basic prompt info (Positive, Negative, etc.)
 - **Copy-to-Clipboard** buttons for quick metadata copying
 
+<br>
+<br>
 
 ## Installation & Usage
 
 ### Option 1: Download the `Metadata Extractor.exe`
 - No Python required — just run the `.exe`.
+<br>
 
 ### Option 2: Run the Python Code
 1. **Install Python** (with Tkinter). On most systems, Python includes Tkinter by default, but ensure you select “tcl/tk and IDLE” during installation if needed.
